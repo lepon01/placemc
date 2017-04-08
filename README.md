@@ -1,9 +1,11 @@
 # placemc
-Mirrors Place into Minecraft - reddit.place:25565
+Mirrors Place into Minecraft
 
 ## I'm a noob, I just want to join!
 
-Join us! The IP is: `reddit.place`
+The server that has previously ran the server has been **discontinued due to the end of Reddit Place.**
+
+You can download the final map that has been hosted on the server at http://moustacheminer.com/place/world.tar
 
 ## Building
 
